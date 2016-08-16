@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nforeBT", "nforeBT\nforeBT.csproj", "{D3A6E59D-B035-47EB-9564-5CEFBB837817}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233} = {EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nForeBridge", "nForeBridge\nForeBridge.csproj", "{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A6E59D-B035-47EB-9564-5CEFBB837817}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA02C2E4-DBCC-49F5-8748-4C37BD4AB233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

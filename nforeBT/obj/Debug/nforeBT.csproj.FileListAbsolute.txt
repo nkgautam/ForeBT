@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\nforeBT\nforeBT\bin\Debug\nforeBT.exe
+D:\VisualStudioProjects\nforeBT\nforeBT\bin\Debug\nforeBT.pdb
+D:\VisualStudioProjects\nforeBT\nforeBT\bin\Debug\nForeBridge.dll
+D:\VisualStudioProjects\nforeBT\nforeBT\bin\Debug\nForeBridge.pdb
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\nforeBT.Form1.resources
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\nforeBT.Properties.Resources.resources
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\nforeBT.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\nforeBT.exe
+D:\VisualStudioProjects\nforeBT\nforeBT\obj\Debug\nforeBT.pdb

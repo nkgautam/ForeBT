@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\nforeBT\nForeBridge\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\nforeBT\nForeBridge\bin\Debug\nForeBridge.dll
+D:\VisualStudioProjects\nforeBT\nForeBridge\bin\Debug\nForeBridge.pdb
+D:\VisualStudioProjects\nforeBT\nForeBridge\obj\Debug\nForeBridge.dll
+D:\VisualStudioProjects\nforeBT\nForeBridge\obj\Debug\nForeBridge.pdb
